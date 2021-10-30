@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body {
+     font-family:sans-serif ; 
+ }
+
+ header{
+     background-color: rgb(22, 22, 53);
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+ }
+
+ header img {
+     width: 180px;
+ }
+
+
+ header a {
+     color: rgb(247, 247, 247);
+     text-decoration: none;
+     transition: color 0.4s;
+     
+ }
+header li + li {
+    margin-left: 24PX;
+}
+ header ul {
+     list-style: none;
+     
+     display: flex;
+     
+ }
+ header a:hover {
+     color: chartreuse;
+ }
+ 
+ .ANDROID {
+    height: 1080PX;
+    padding: 24px;
+     background-image: url(../imagens]/ss_9c900def2b1d9a003b7d3e202ea2a7556a36e081.1920x1080.jpg);
+     background-size: cover;
+     background-position: center;
+    
+     display: flex;
+     justify-content: center;
+     align-items: flex-end;
+  
+ }
+ .ANDROID h1{
+     color: rgb(252, 210, 74);
+     font-size: 36px;
+  
+ 
+ }
+ .and{
+    le
+    height: 180PX;
+     background-color: rgb(2, 2, 20);
+     color: rgb(212, 239, 250);
+     font-size: 36px;
+  
+ }
+ .and img{
+
+    
+ }
+ .im img{
+    width: 600px;
+ }
+
+    
+     
+   
+ 
+ 
+ 
+  
+ 
+ 
+
